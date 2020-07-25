@@ -1,7 +1,3 @@
-# Chris Barill
-
-## Game Developer Portfolio
-
 ### _About Me_ | [Personal Projects][] | [Resume][]
 
 __Contact:__
