@@ -8,11 +8,11 @@ __Contact:__
 
 *  _[304.376.0150](tel:+13043760150)_
 
+* _Resume: [Word](ChrisBarillResume.docx) | [PDF](ChrisBarillResume.pdf)_
+
 [About Me]: about "Read About Me"
 [Personal Projects]: projects "View My Projects"
 [Resume]: resume "View My Resume"
-
-* <a class="buttons" href="ChrisBarillResume.pdf">PDF</a> <a class="buttons" href="ChrisBarillResume.docx">Word</a>
 
 ### FAST ENTERPRISES, LLC
 
