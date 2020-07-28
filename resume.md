@@ -12,7 +12,7 @@ __Contact:__
 [Personal Projects]: projects "View My Projects"
 [Resume]: resume "View My Resume"
 
-<a class="buttons" href="ChrisBarillResume.pdf">PDF</a> <a class="buttons" href="ChrisBarillResume.docx">Word</a>
+* <a class="buttons" href="ChrisBarillResume.pdf">PDF</a> <a class="buttons" href="ChrisBarillResume.docx">Word</a>
 
 ### FAST ENTERPRISES, LLC
 
