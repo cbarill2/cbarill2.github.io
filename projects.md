@@ -1,6 +1,6 @@
 ## Game Programmer Portfolio
 
-### _Personal Projects_ | [Resume][] | [About Me][]
+### _Game Projects_ | [Resume][] | [About Me][]
 
 __Contact:__
 
@@ -11,7 +11,7 @@ __Contact:__
 *  _Resume: [Word](ChrisBarillResume.docx) / [PDF](ChrisBarillResume.pdf)_
 
 [About Me]: about "Read About Me"
-[Personal Projects]: projects "View My Projects"
+[Game Projects]: projects "View My Projects"
 [Resume]: resume "View My Resume"
 
 ### Digital Tabletop RPG For Kids (C++, SFML)

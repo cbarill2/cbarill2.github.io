@@ -1,6 +1,6 @@
 ## Game Programmer Portfolio
 
-### [Personal Projects][] | [Resume][] | _About Me_
+### [Game Projects][] | [Resume][] | _About Me_
 
 __Contact:__
 
@@ -11,7 +11,7 @@ __Contact:__
 *  _Resume: [Word](ChrisBarillResume.docx) / [PDF](ChrisBarillResume.pdf)_
 
 [About Me]: about "Read About Me"
-[Personal Projects]: projects "View My Projects"
+[Game Projects]: projects "View My Projects"
 [Resume]: resume "View My Resume"
 
 ### Game Design Influences
