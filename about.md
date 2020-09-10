@@ -14,6 +14,14 @@ __Contact:__
 [Game Projects]: projects "View My Projects"
 [Resume]: resume "View My Resume"
 
+### Programming
+
+Before I wrote my first "Hello World!" in high school, I thought making games was a mystical, voodoo-like, dark arts process that I'd never be able to learn on my own.
+
+Back then, Game Design schools were less prevalent, so I decided to attend my local college, West Virginia University (WVU), to study Computer Science, with the goal of leveraging my programming skills to become a Game Designer. It took a few years after high school to get there, but I earned my Bachelor of Science degree in Computer Science, with a Minor in Physics, in 2013.
+
+After graduating, life circumstances pushed me into taking the first job I could get--Software Consultant--rather than the job I wanted--Game Developer. Now, after six years in unfulfilling jobs, I am determined to achieve my original goal, with one major difference: instead of designing games, I want to program them. One of the most important things I have learned since college is that I truly love programming, as much as I've always loved playing games.
+
 ### Game Design Influences
 
 #### Video Games
@@ -28,17 +36,11 @@ On PlayStation, I played many more RPGs, including [_Final Fantasy VII_](https:/
 
 #### Tabletop Games
 
-My aunt brought home the _Dungeons & Dragons_ ["black box"](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_Basic_Set#1991_revision) when I was around ten years old and acted as Dungeon Master (DM) for my sister and I. She continued to run adventures for us in [_Advanced Dungeons & Dragons 2nd Edition_](https://en.wikipedia.org/wiki/Editions_of_Dungeons_%26_Dragons#Advanced_Dungeons_&_Dragons_2nd_Edition) and [_Palladium_](https://en.wikipedia.org/wiki/Palladium_Fantasy_Role-Playing_Game). Around this time, she also introduced me to [_Magic: The Gathering_](https://en.wikipedia.org/wiki/Magic:_The_Gathering), which I continued to play off-and-on for a number of years.
+My aunt brought home the _Dungeons & Dragons_ ["black box"](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_Basic_Set#1991_revision) when I was around ten years old. She acted as Dungeon Master (DM) for my sister and I, and continued to run adventures for us in [_Advanced Dungeons & Dragons 2nd Edition_](https://en.wikipedia.org/wiki/Editions_of_Dungeons_%26_Dragons#Advanced_Dungeons_&_Dragons_2nd_Edition) and [_Palladium_](https://en.wikipedia.org/wiki/Palladium_Fantasy_Role-Playing_Game). Around this time, she also introduced me to [_Magic: The Gathering_](https://en.wikipedia.org/wiki/Magic:_The_Gathering), which I continued to play off-and-on for a number of years.
 
-In high school, I was DM for a weekly [_Dungeons & Dragons_](https://en.wikipedia.org/wiki/Editions_of_Dungeons_%26_Dragons#Dungeons_&_Dragons_3rd_edition) game for which I created my own adventures, often improvising an entire session.
+In my teenage years, I dabbled in a few other tabletop RPGs, like [_White Wolf_'s](https://en.wikipedia.org/wiki/White_Wolf_Publishing) [_Vampire: The Masquerade_](https://en.wikipedia.org/wiki/Vampire:_The_Masquerade) and [_Werewolf: The Apocalypse_](https://en.wikipedia.org/wiki/Werewolf:_The_Apocalypse), and the related collectible card game [_Rage_](https://en.wikipedia.org/wiki/Rage_(collectible_card_game)), as well as a [_Tenchi Muyo!_ RPG](https://en.wikipedia.org/wiki/Tenchi_Muyo!_(role-playing_game)) made by [_Guardians of Order_](https://en.wikipedia.org/wiki/Guardians_of_Order).
 
-### Programming
-
-Before I wrote my first "Hello World!" in high school, I thought making games was a mystical, voodoo-like, dark arts process that I'd never be able to learn on my own.
-
-Back then, Game Design schools were less prevalent, so I decided to attend my local college, West Virginia University (WVU), to study Computer Science, with the goal of leveraging my programming skills to become a Game Designer. It took a few years after high school to get there, but I earned my Bachelor of Science degree in Computer Science, with a Minor in Physics, in 2013.
-
-After graduating, life circumstances pushed me into taking the first job I could get--Software Consultant--rather than the job I wanted--Game Developer. Now, after six years in unfulfilling jobs, I am determined to achieve my original goal, with one major difference: instead of designing games, I want to program them. One of the most important things I have learned since college is that I truly love programming, as much as I've always loved playing games.
+In high school, I was DM for a weekly [_Dungeons & Dragons_ 3rd edition](https://en.wikipedia.org/wiki/Editions_of_Dungeons_%26_Dragons#Dungeons_&_Dragons_3rd_edition) game for which I created my own adventures, often improvising an entire session. I skipped 3.5 and 4E, but recently started playing in some [_Dungeon's & Dragons_ 5th edition](https://en.wikipedia.org/wiki/Editions_of_Dungeons_%26_Dragons#Dungeons_&_Dragons_5th_edition) games and creating adventures within that ruleset.
 
 [Back to Top](#game-programmer-portfolio)
 
