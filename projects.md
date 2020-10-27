@@ -34,7 +34,6 @@ Basic 3D space with a first-person camera. There is also some code for procedura
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V2FqSVKOMcY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Log Dodger (Python, PyGame)
-[View on GitHub](https://github.com/cbarill2/CodeSamples/blob/master/logdodger.py)
 
 My first game project: a simple arcade game, built for a Game Design class in college. You play as a treasure hunter trying to climb a hill while monkeys roll logs down the hill to impede you. Dodge the logs by moving left or right, but you never progress up the hill.
 
