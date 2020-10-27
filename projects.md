@@ -15,7 +15,7 @@ __Contact:__
 [Resume]: resume "View My Resume"
 
 ### Digital Tabletop RPG For Kids (C++, SFML)
-[View on GitHub](https://github.com/cbarill2/KidsDungeonGame)
+[View on GitHub](https://github.com/cbarill2/SimpleDungeonGame)
 
 My current project is a tile-based, turn-based RPG with simple mechanics to digitize tabletop gaming for kids. It will feature a procedurally generated game board with monsters to defeat, prisoners to rescue, and treasure to collect.
 
