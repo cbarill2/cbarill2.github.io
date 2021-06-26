@@ -25,6 +25,10 @@ My current project is a tile-based, turn-based RPG with simple mechanics to digi
 
 Re-creation of the game _Pong_ with a bouncing ball and 2 opposing paddles, which can be moved independently using one keyboard (W and S to move the left paddle and the up and down arrow keys to move the right paddle).
 
+<a href="images/pong_gameplay.png">
+<img src="images/pong_gameplay.png" alt="Pong Clone Gameplay" width="290" height="150">
+</a>
+
 ### 3D Project (Java, LWJGL)
 
 [View on GitHub](https://github.com/crippledrat/LearningLWJGL)
