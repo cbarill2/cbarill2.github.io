@@ -19,6 +19,22 @@ __Contact:__
 
 My current project is a tile-based, turn-based RPG with simple mechanics to digitize tabletop gaming for kids. It will feature a procedurally generated game board with monsters to defeat, prisoners to rescue, and treasure to collect.
 
+<a href="images/simple_gameplay_1.png">
+<img src="images/simple_gameplay_1.png" alt="Simple Dungeon Gameplay 1" width="320" height="240">
+</a>
+
+<a href="images/simple_gameplay_2.png">
+<img src="images/simple_gameplay_2.png" alt="Simple Dungeon Gameplay 2" width="320" height="240">
+</a>
+
+<a href="images/simple_gameplay_3.png">
+<img src="images/simple_gameplay_3.png" alt="Simple Dungeon Gameplay 3" width="320" height="240">
+</a>
+
+<a href="images/simple_gameplay_4.png">
+<img src="images/simple_gameplay_4.png" alt="Simple Dungeon Gameplay 4" width="320" height="240">
+</a>
+
 ### Pong Clone (C++, Direct2D)
 
 [View on GitHub](https://github.com/cbarill2/Direct2DPong)
