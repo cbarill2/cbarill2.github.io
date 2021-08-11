@@ -47,7 +47,7 @@ Re-creation of the game _Pong_ with a bouncing ball and 2 opposing paddles, whic
 
 ### 3D Project (Java, LWJGL)
 
-[View on GitHub](https://github.com/crippledrat/LearningLWJGL)
+[View on GitHub](https://github.com/bourdain-industries/LearningLWJGL)
 
 Basic 3D space with a first-person camera. There is also some code for procedural generation of a simple action-adventure dungeon (from before I switched it to 3D), but I never completed rendering for it. Though incomplete, this shows my understanding of object-oriented programming and project structure.
 
