@@ -33,7 +33,7 @@ My current project is a tile-based, turn-based RPG with simple mechanics to intr
 <a href="images/simple_gameplay_2.png">
 <img src="images/simple_gameplay_2.png" alt="Simple Dungeon Gameplay 2" width="360" height="270">
 </a>
-<vr><a href="images/simple_gameplay_4.png">
+<a href="images/simple_gameplay_4.png">
 <img src="images/simple_gameplay_4.png" alt="Simple Dungeon Gameplay 3" width="360" height="270">
 </a>
 
