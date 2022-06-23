@@ -1,6 +1,6 @@
-## Game Programmer Portfolio
+# Game Programmer Portfolio
 
-### [Game Projects][] | [Resume][] | _About Me_
+### [Home][] | [Resume][] | _About Me_
 
 __Contact:__
 
@@ -8,11 +8,11 @@ __Contact:__
 
 *  _[304.376.0150](tel:+13043760150)_
 
-*  _Resume: [Word](ChrisBarillResume.docx) / [PDF](ChrisBarillResume.pdf)_
+*  _Resume: [Word](ChrisBarillResume.docx) / [PDF](ChrisBarillResume.pdf) / [HTML](resume)_
 
-[About Me]: about "Read About Me"
-[Game Projects]: projects "View My Projects"
+[Home]: index "View My Projects"
 [Resume]: resume "View My Resume"
+[About Me]: about "Read About Me"
 
 ### Programming
 
@@ -20,7 +20,7 @@ Before I wrote my first "Hello World!" in high school, I thought making games wa
 
 Back then, Game Design schools were less prevalent, so I decided to attend my local college, West Virginia University (WVU), to study Computer Science, with the goal of leveraging my programming skills to become a Game Designer. It took a few years after high school to get there, but I earned my Bachelor of Science degree in Computer Science, with a Minor in Physics, in 2013.
 
-After graduating, life circumstances pushed me into taking the first job I could get--Software Consultant--rather than the job I wanted--Game Developer. Now, after six years in unfulfilling jobs, I am determined to achieve my original goal, with one major difference: instead of designing games, I want to program them. One of the most important things I have learned since college is that I truly love programming, as much as I've always loved playing games.
+After graduating, life circumstances pushed me into taking the first job I could get--Software Consultant--rather than the job I wanted--Game Developer. I am determined to achieve my original goal, with one major difference: instead of designing games, I want to program them. One of the most important things I have learned since college is that I truly love programming, as much as I've always loved playing games.
 
 ### Game Design Influences
 

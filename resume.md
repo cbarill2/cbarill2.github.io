@@ -1,6 +1,6 @@
-## Game Programmer Portfolio
+# Game Programmer Portfolio
 
-### [Game Projects][] | _Resume_ | [About Me][]
+### [Home][] | _Resume_
 
 __Contact:__
 
@@ -8,15 +8,15 @@ __Contact:__
 
 *  _[304.376.0150](tel:+13043760150)_
 
-*  _Resume: [Word](ChrisBarillResume.docx) / [PDF](ChrisBarillResume.pdf)_
+*  _Resume: [Word](ChrisBarillResume.docx) / [PDF](ChrisBarillResume.pdf) / HTML_
 
-[About Me]: about "Read About Me"
-[Game Projects]: projects "View My Projects"
+[Home]: index "View My Projects"
 [Resume]: resume "View My Resume"
+[About Me]: about "Read About Me"
 
 ### FAST ENTERPRISES, LLC
 
-- __TEAM LEAD__ _MAY 2019 – PRESENT_
+- __TEAM LEAD__ _MAY 2019 – April 2021_
 
     Manage a team of 3 Implementation Consultants supporting MARS, the Mississippi Department of Revenue’s implementation of FAST’s GenTax software. 
     
@@ -28,7 +28,7 @@ __Contact:__
     
     Complete performance reviews and give regular, actionable feedback.
 
-- __IMPLEMENTATION CONSULTANT__ _SEP 2017 – PRESENT_
+- __IMPLEMENTATION CONSULTANT__ _SEP 2017 – March 2022_
 
     Maintain, extend, and improve MARS by researching issues to find root causes and implement or suggest solutions using Visual Basic .NET and Microsoft SQL Server, in Visual Studio and SQL Server Management Studio.
     
