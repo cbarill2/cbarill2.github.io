@@ -22,13 +22,13 @@ __Contact:__
 
 Written in Python using [tkinter](https://docs.python.org/3/library/tkinter.html) and [mysql.connector](https://dev.mysql.com/doc/connector-python/en/), it retrieves data from the server's MySQL database and displays it using a number of interactive widgets. I built it to easily view the different accounts on the server, the characters on those accounts, and the following information about those characters: Level, Race, Class, Professions, Bags, and currently equipped Items.
 
-</br>
+<br/>
 
 <a href="images/wow_armory.png">
 <img src="images/wow_armory.png" alt="WoW Armory Screenshot">
 </a>
 
-</br>
+<br/>
 
 I may expand it in the future to add Quests, Mail, and more detail on the selected Item, but I tend to set it aside while not playing on the server.
 
