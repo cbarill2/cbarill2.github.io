@@ -20,6 +20,8 @@ __Contact:__
 
 ### A tool for browsing characters on my local [MaNGOS Zero](https://getmangos.eu) server.
 
+[View on GitHub](https://github.com/cbarill2/MaNGOS-Zero-Armory)
+
 Written in Python using [tkinter](https://docs.python.org/3/library/tkinter.html) and [mysql.connector](https://dev.mysql.com/doc/connector-python/en/), it retrieves data from the server's MySQL database and displays it using a number of interactive widgets. I built it to easily view the different accounts on the server, the characters on those accounts, and the following information about those characters: Level, Race, Class, Professions, Bags, and currently equipped Items.
 
 <br/>
