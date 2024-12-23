@@ -1,4 +1,4 @@
-# Game Programmer Portfolio
+# Software Engineer and Game Developer Portfolio
 
 ### _Home_ | [Resume][]
 
